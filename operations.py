@@ -28,7 +28,10 @@ def maximum(list):
 if __name__ == "__main__":
 
     print("start test")
-    print(power(9, 2))
+
+    print(maximum([1, 2, 3, 4, 5]))
+    print(maximum([10, 83, 8, 10, 18]))
+
 
 
 
