@@ -28,7 +28,7 @@ def maximum(list):
 if __name__ == "__main__":
 
     print("start test")
-    print(multiply("d", "e"))
+    print(divide(-10, 0))
 
 
 
